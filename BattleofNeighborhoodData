@@ -1,0 +1,4 @@
+Battle of Neighborhood Data
+The data used to solve this problem starts with the dataset using during the course: "https://cocl.us/new_york_dataset" and used to obtain
+the information for borough, neighborhood, latitute and longitude to create a table and vizualized by plotting them into a New York map.
+Used of geolocator to obtain the latitude and longitude of New York City and create a map with these values.For the second city used the data from the List of postal codes of Canada from wikipedia, find ther corresponding table by scrapping, creating a file and used it to plotting coordinate of Toronto neighborhoods' values into a Toronto map.
