@@ -1,0 +1,11 @@
+Introduction/Business Problem
+This assignment demonstrate the knowledge acquire during this course "Applied Data Science Capstone" that allow to strip
+of the necessary information to evaluate and solve an existing situation within a business. During the course we explored
+to majoe cosmopolitan cities: New York and Toronto, looking at their neighborhoods and able to represent them in a map.
+The extration of these neighborhoods coordinates from previous files and sort them and added to the coresponding city map
+for the purpose of visualization.
+
+The business problem, when visitors visited any of these cities are not able to see the different distribuition of any site
+of interest like neighborhoods and any feature associated with them, and where they are located according to the map. An
+important point of reference for a visitor. How this problem can be solve?. I plan to used the geographical location of the
+neighborhood and place them in the corresponding city map for visualization using the tools giving by this course.
